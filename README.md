@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi, I'm AbdulGaniy Basirah Olanike
 
-<!--
-**Nikkypwetti/Nikkypwetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer transitioning to DevOps**
 
-Here are some ideas to get you started:
+🚀 **Current Focus:** [DevOps Learning Journey](https://github.com/Nikkypwetti/devops-learning-journey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **6-Month DevOps Learning Path:**
+- Month 1: ☁️ AWS Cloud Foundations
+- Month 2: 🐧 Linux & Networking
+- Month 3: 🏗️ Infrastructure as Code
+- Month 4: 🐳 Containerization
+- Month 5: ⚙️ Kubernetes
+- Month 6: 🔄 CI/CD & Monitoring
