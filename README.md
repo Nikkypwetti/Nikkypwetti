@@ -1,54 +1,54 @@
-Hi there, I'm ABDULGANIY BASIRAH OLANIKE 👋
+# Hi there, I'm ABDULGANIY BASIRAH OLANIKE! 👋
+### 🚀 Aspiring DevOps Engineer | Cloud Enthusiast
 
-Cloud & DevOps Engineer | AWS Enthusiast
+I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicated **6-month roadmap** to transition into Cloud Engineering and DevOps. I am passionate about automating infrastructure and building scalable systems on AWS.
 
-I am documenting my journey to becoming a Cloud Engineer. Here you can find my major projects and my daily learning logs.
+---
 
-🏆 Featured Portfolio Projects
+## 🏆 Featured Projects (The Portfolio)
+*Evidence of my hands-on experience with AWS and Infrastructure.*
 
-These are production-ready implementations of AWS Architectures.
+### ☁️ [High-Availability Web Application](https://github.com/YOUR_USERNAME/aws-ha-webapp)
+**Tech:** *AWS EC2, Auto Scaling Groups, Application Load Balancer, VPC, Linux*
+> Designed and deployed a fault-tolerant, multi-AZ web architecture. Implemented chaos engineering to test resilience against Availability Zone failures.
+> [**View Architecture & Code »**](https://github.com/YOUR_USERNAME/aws-ha-webapp)
 
-Project
+### 🛠️ [Upcoming Project: Terraform Infra-as-Code]
+**Tech:** *Terraform, AWS*
+> (Placeholder for your next project - keep this here to show ambition!)
 
-Stack
+---
 
-Description
+## 📚 My Learning Journey (The Process)
+I document everything I learn daily—mistakes, fixes, and labs—in my open-source notebook. This demonstrates my consistency and ability to document technical concepts.
 
-Serverless API Backend
+* 📖 **[Read my Daily DevOps Notes & Labs](https://github.com/Nikkypwetti/learning-journey-devops)**
 
-AWS Lambda, DynamoDB, API Gateway
+---
 
-A fully serverless REST API that handles user data with auto-scaling capabilities.
+## 🛠️ Tools & Technologies
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-High-Availability Web Server
+**Scripting & Version Control**
+![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Terraform, EC2, ALB, Auto Scaling
+**Currently Learning**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-Infrastructure as Code (IaC) to deploy a fault-tolerant web application across two Availability Zones.
+---
 
-S3 Image Resizer
+## 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Nikkypwetti&show_icons=true&theme=radical" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikkpwetti&layout=compact&theme=radical" alt="Languages" />
+</p>
 
-Python, S3 Event Triggers
+---
 
-An automated pipeline that resizes images immediately upon upload.
-
-📚 My Learning Journey
-
-I maintain a central repository where I document my daily labs, notes, and smaller experiments.
-👉 Check out my AWS Learning Roadmap
-
-Recent Learnings:
-
-📂 IAM Roles & Policies: Deep dive into least-privilege access.
-
-📂 VPC Networking: Setting up public/private subnets and NAT Gateways.
-
-📂 CloudWatch Monitoring: Creating custom metrics for EC2 instances.
-
-🛠 Tech Stack
-
-📫 Connect with me
-
-LinkedIn
-
-Personal Website
+## 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+* **Email:** [your-email@example.com](olanike.basirat620@gmail.com)
