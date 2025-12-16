@@ -35,7 +35,7 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 ## 📚 My Learning Journey (The Process)
 I document everything I learn daily—mistakes, fixes, and labs—in my open-source notebook. This demonstrates my consistency and ability to document technical concepts.
 
-* 📖 **[Read my Daily DevOps Notes & Labs](https://github.com/Nikkypwetti/learning-journey-devops)**
+* 📖 **[Read my Daily DevOps Notes & Labs](https://github.com/Nikkypwetti/devops-learning-journey)**
 
 ---
 
