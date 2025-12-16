@@ -13,8 +13,6 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 > Designed and deployed a fault-tolerant, multi-AZ web architecture. Implemented chaos engineering to test resilience against Availability Zone failures.
 > [**View Architecture & Code »**](https://github.com/nikkypwetti/aws-ha-webapp)
 
-### 🛠️ [Upcoming Project: Terraform Infra-as-Code]
-**Tech:** *Terraform, AWS*
 ## 🚀 Featured Project: Automated Cloud Infrastructure
 
 ### [AWS Multi-Tier Architecture with Terraform](https://github.com/Nikkypwetti/aws-terraform-multi-tier-app)
@@ -59,7 +57,7 @@ I document everything I learn daily—mistakes, fixes, and labs—in my open-sou
 ## 📈 GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Nikkypwetti&show_icons=true&theme=radical" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikkpwetti&layout=compact&theme=radical" alt="Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikkypwetti&layout=compact&theme=radical" alt="Languages" />
 </p>
 
 ---
