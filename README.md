@@ -65,10 +65,17 @@ I document everything I learn daily—mistakes, fixes, and labs—in my open-sou
 
 ---
 
+## 📈 Activity Overview
+- 🔭 **Currently Working On:** DevOps & Cloud projects
+- 🌱 **Learning:** CI/CD, Terraform, Cloud Security
+- 📊 **Recent Activity:** Building automated AWS infrastructure
+- 📝 **Documenting:** [DevOps Learning Journey](https://github.com/Nikkypwetti/devops-learning-journey)
+
 ## 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Nikkypwetti&show_icons=true&theme=radical" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikkypwetti&layout=compact&theme=radical" alt="Languages" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikkypwetti&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikkypwetti&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Languages" width="45%" />
 </p>
 
 ---
