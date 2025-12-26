@@ -1,9 +1,15 @@
 # Hi there, I'm ABDULGANIY BASIRAH OLANIKE! 👋
-### 🚀 Aspiring DevOps Engineer | Cloud Enthusiast
+### 🚀 Aspiring DevOps Engineer | Cloud Enthusiast | Infrastructure as Code Advocate
 
 I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicated **6-month roadmap** to transition into Cloud Engineering and DevOps. I am passionate about automating infrastructure and building scalable systems on AWS.
 
 ---
+## 🔧 Skills & Technologies
+- **Cloud:** AWS (EC2, S3, IAM, VPC, Auto Scaling, ALB)
+- **DevOps & IaC:** Terraform, Linux, Networking
+- **Programming:** JavaScript, TypeScript, PHP, SQL, Node.js
+- **Frameworks:** React, Next.js, Angular, Vue, Laravel
+- **Tools:** Git, GitHub, VS Code
 
 ## 🏆 Featured Projects (The Portfolio)
 *Evidence of my hands-on experience with AWS and Infrastructure.*
@@ -39,6 +45,11 @@ I document everything I learn daily—mistakes, fixes, and labs—in my open-sou
 
 ---
 
+## 🌱 Currently Learning
+- CI/CD pipelines
+- Advanced Terraform modules
+- Cloud security & monitorin
+
 ## 🛠️ Tools & Technologies
 **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -63,5 +74,5 @@ I document everything I learn daily—mistakes, fixes, and labs—in my open-sou
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-* **Email:** [your-email@example.com](olanike.basirat620@gmail.com)
+* **LinkedIn:** [linkedin.com/in/ganiyu-basirat](https://linkedin.com)
+* **Email:** [olanike.basirat620@gmail.com](olanike.basirat620@gmail.com)
