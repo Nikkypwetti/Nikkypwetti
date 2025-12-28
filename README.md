@@ -19,7 +19,7 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 **Tech:** *AWS EC2, Auto Scaling Groups, Application Load Balancer, VPC, Linux*
 > Designed and deployed a fault-tolerant, multi-AZ web architecture. Implemented chaos engineering to test resilience against Availability Zone failures.
 
-[**View Architecture & Code »**](https://github.com/nikkypwetti/aws-ha-webapp)
+[➡️ **View Architecture & Code »**](https://github.com/nikkypwetti/aws-ha-webapp)
 
 ---
 
@@ -52,7 +52,7 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 - **Key Highlight:** Implemented `remote-exec` provisioners to achieve a "Zero-Touch" deployment where the server is fully configured upon creation.
 - **Outcome:** Reduced environment setup time from 20 minutes to 2 minutes.
 
-[➡️ View the Code & Architecture graph](https://github.com/Nikkypwetti/practice)
+[➡️ View the Code & Architecture graph](https://github.com/nikkypwetti/practice)
 
 ---
 
@@ -66,7 +66,9 @@ I document everything I learn daily—mistakes, fixes, and labs—in my open-sou
 ## 🌱 Currently Learning
 - CI/CD pipelines
 - Advanced Terraform modules
-- Cloud security & monitorin
+- Cloud security & monitoring
+
+---
 
 ## 🛠️ Tools & Technologies
 **Cloud & Infrastructure**
@@ -88,6 +90,8 @@ I document everything I learn daily—mistakes, fixes, and labs—in my open-sou
 - 🌱 **Learning:** CI/CD, Terraform, Cloud Security
 - 📊 **Recent Activity:** Building automated AWS infrastructure
 - 📝 **Documenting:** [DevOps Learning Journey](https://github.com/Nikkypwetti/devops-learning-journey)
+
+---
 
 ## 📈 GitHub Stats
 
