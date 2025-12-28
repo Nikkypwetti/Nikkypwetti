@@ -40,7 +40,7 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 
 ---
 
-### [AWS Infrastructure Automation (Terraform)](https://github.com/Nikkypwetti/devops-learning-journey/03-infrastructure-as-code/practice)
+### [AWS Infrastructure Automation (Terraform)](https://github.com/Nikkypwetti/practice)
 *I practice EC2 Instance with Terraform provisioner and Data sources.*
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -52,7 +52,7 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 - **Key Highlight:** Implemented `remote-exec` provisioners to achieve a "Zero-Touch" deployment where the server is fully configured upon creation.
 - **Outcome:** Reduced environment setup time from 20 minutes to 2 minutes.
 
-[➡️ View the Code & Architecture graph](https://github.com/nikkypwetti/03-infrastructure-as-code/practice)
+[➡️ View the Code & Architecture graph](https://github.com/Nikkypwetti/practice)
 
 ---
 
