@@ -4,9 +4,6 @@
 I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicated **6-month roadmap** to transition into Cloud Engineering and DevOps. I am passionate about automating infrastructure and building scalable systems on AWS.
 
 ---
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🔧 Skills & Technologies
 - **Cloud:** AWS (EC2, S3, IAM, VPC, Auto Scaling, ALB)
@@ -23,7 +20,7 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 > Designed and deployed a fault-tolerant, multi-AZ web architecture. Implemented chaos engineering to test resilience against Availability Zone failures.
 > [**View Architecture & Code »**](https://github.com/nikkypwetti/aws-ha-webapp)
 
-## 🚀 Featured Project: Automated Cloud Infrastructure
+## 🚀 Automated Cloud Infrastructure
 
 ### [AWS Multi-Tier Architecture with Terraform](https://github.com/Nikkypwetti/aws-terraform-multi-tier-app)
 *I built a production-ready, 2-tier web architecture completely defined as code.*
@@ -42,9 +39,9 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 
 ---
 
-## 🛠️ Featured DevOps Projects
+## 🛠️ DevOps Projects
 
-### [AWS Infrastructure Automation (Terraform)](https://github.com/Nikkypwetti/practice)
+### [AWS Infrastructure Automation (Terraform)](https://github.com/Nikkypwetti/03-infrastructure-as-code/practice)
 **The Challenge:** Automate a full VPC network and web server deployment to reduce manual configuration errors.
 - **Tech Stack:** Terraform, AWS (EC2, VPC, S3), Nginx.
 - **Key Highlight:** Implemented `remote-exec` provisioners to achieve a "Zero-Touch" deployment where the server is fully configured upon creation.
