@@ -4,6 +4,10 @@
 I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicated **6-month roadmap** to transition into Cloud Engineering and DevOps. I am passionate about automating infrastructure and building scalable systems on AWS.
 
 ---
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ## 🔧 Skills & Technologies
 - **Cloud:** AWS (EC2, S3, IAM, VPC, Auto Scaling, ALB)
 - **DevOps & IaC:** Terraform, Linux, Networking
@@ -37,6 +41,14 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 [➡️ View the Code & Architecture Diagram](https://github.com/Nikkypwetti/aws-terraform-multi-tier-app)
 
 ---
+
+## 🛠️ Featured DevOps Projects
+
+### [AWS Infrastructure Automation (Terraform)](https://github.com/Nikkypwetti/practice)
+**The Challenge:** Automate a full VPC network and web server deployment to reduce manual configuration errors.
+- **Tech Stack:** Terraform, AWS (EC2, VPC, S3), Nginx.
+- **Key Highlight:** Implemented `remote-exec` provisioners to achieve a "Zero-Touch" deployment where the server is fully configured upon creation.
+- **Outcome:** Reduced environment setup time from 20 minutes to 2 minutes.
 
 ## 📚 My Learning Journey (The Process)
 I document everything I learn daily—mistakes, fixes, and labs—in my open-source notebook. This demonstrates my consistency and ability to document technical concepts.
