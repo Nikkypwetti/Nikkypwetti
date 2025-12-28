@@ -20,7 +20,6 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 > Designed and deployed a fault-tolerant, multi-AZ web architecture. Implemented chaos engineering to test resilience against Availability Zone failures.
 > [**View Architecture & Code »**](https://github.com/nikkypwetti/aws-ha-webapp)
 
-## 🚀 Automated Cloud Infrastructure
 
 ### [AWS Multi-Tier Architecture with Terraform](https://github.com/Nikkypwetti/aws-terraform-multi-tier-app)
 *I built a production-ready, 2-tier web architecture completely defined as code.*
@@ -39,13 +38,21 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 
 ---
 
-## 🛠️ DevOps Projects
+### [AWS Infrastructure Automation (Terraform)](https://github.com/Nikkypwetti/practice)
+*I practice EC2 Instance with Terraform provisioner and Data sources.*
 
-### [AWS Infrastructure Automation (Terraform)](https://github.com/Nikkypwetti/03-infrastructure-as-code/practice)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 **The Challenge:** Automate a full VPC network and web server deployment to reduce manual configuration errors.
 - **Tech Stack:** Terraform, AWS (EC2, VPC, S3), Nginx.
 - **Key Highlight:** Implemented `remote-exec` provisioners to achieve a "Zero-Touch" deployment where the server is fully configured upon creation.
 - **Outcome:** Reduced environment setup time from 20 minutes to 2 minutes.
+
+[➡️ View the Code & Architecture Diagram](https://github.com/Nikkypwetti/practice)
+
+---
 
 ## 📚 My Learning Journey (The Process)
 I document everything I learn daily—mistakes, fixes, and labs—in my open-source notebook. This demonstrates my consistency and ability to document technical concepts.
