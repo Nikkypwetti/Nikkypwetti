@@ -18,8 +18,10 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 ### ☁️ [High-Availability Web Application](https://github.com/Nikkypwetti/aws-ha-webapp)
 **Tech:** *AWS EC2, Auto Scaling Groups, Application Load Balancer, VPC, Linux*
 > Designed and deployed a fault-tolerant, multi-AZ web architecture. Implemented chaos engineering to test resilience against Availability Zone failures.
-> [**View Architecture & Code »**](https://github.com/nikkypwetti/aws-ha-webapp)
 
+[**View Architecture & Code »**](https://github.com/nikkypwetti/aws-ha-webapp)
+
+---
 
 ### [AWS Multi-Tier Architecture with Terraform](https://github.com/Nikkypwetti/aws-terraform-multi-tier-app)
 *I built a production-ready, 2-tier web architecture completely defined as code.*
@@ -50,7 +52,7 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 - **Key Highlight:** Implemented `remote-exec` provisioners to achieve a "Zero-Touch" deployment where the server is fully configured upon creation.
 - **Outcome:** Reduced environment setup time from 20 minutes to 2 minutes.
 
-[➡️ View the Code & Architecture graph](https://github.com/Nikkypwetti/devops-learning-journey/03-infrastructure-as-code/practice)
+[➡️ View the Code & Architecture graph](https://github.com/nikkypwetti/03-infrastructure-as-code/practice)
 
 ---
 
