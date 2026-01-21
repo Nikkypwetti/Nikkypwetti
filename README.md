@@ -5,12 +5,35 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nikkypwetti&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering. I believe in **"Infrastructure as Code"** not just as a tool, but as a philosophy for building reliable, scalable, and reproducible systems. When I'm not automating AWS infrastructure, I enjoy documenting my learning journey to help others in the DevOps community.
+
+**My approach:** Learn → Build → Document → Repeat.
+
+---
+
 ## 🔧 Skills & Technologies
 - **Cloud:** AWS (EC2, S3, IAM, VPC, Auto Scaling, ALB)
 - **DevOps & IaC:** Terraform, Linux, Networking
 - **Programming:** JavaScript, TypeScript, PHP, SQL, Node.js
 - **Frameworks:** React, Next.js, Angular, Vue, Laravel
 - **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🏅 Certifications
+
+- **AWS Certified Cloud Practitioner** *(In Progress)*
+- **Terraform Associate** *(Planned for Q2 2026)*
+
+---
 
 ## 🏆 Featured Projects (The Portfolio)
 *Evidence of my hands-on experience with AWS and Infrastructure.*
@@ -56,21 +79,24 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 
 ---
 
-### 🚀 Automated Golden AMI Pipeline (CI/CD)
+### 🚀 [Automated Golden AMI Pipeline (CI/CD)](https://github.com/Nikkypwetti/your-golden-ami-repo)
 
-I built a self-cleaning image factory that automates the transition from code to a hardened AWS artifact.
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-The Engineering Challenge: Eliminate manual configuration and ensure "Immutable Infrastructure" by baking all dependencies into a versioned Golden AMI.
+**The Challenge:** Eliminate manual configuration drift and ensure "Immutable Infrastructure" by automating the creation of hardened, versioned Amazon Machine Images.
 
-    Image Baking: Automated Packer to provision temporary build environments and capture hardened AMIs.
+**Solution Highlights:**
+- **Image Baking:** Used Packer with Ansible provisioner to create secure, pre-configured AMIs
+- **Secret Management:** Integrated Ansible Vault for encrypted credentials and configurations
+- **Cost Optimization:** Automated cleanup of old AMIs and EBS snapshots
+- **Monitoring:** Terraform-provisioned CloudWatch dashboard for real-time resource monitoring
+- **CI/CD Ready:** Pipeline triggers on code commit → build → test → deploy
 
-    Configuration: Integrated Ansible with Ansible Vault to manage encrypted secrets and Nginx templates securely.
+**Tech Stack:** Packer, Ansible, Terraform, AWS (EC2, CloudWatch, S3), Bash
 
-    Cost Optimization: Implemented automated cleanup logic that deregisters old AMIs and deletes associated EBS Snapshots to keep AWS storage costs at zero.
-
-    Observability: Provisioned a CloudWatch Dashboard via Terraform to monitor real-time CPU and Memory (RAM) utilization.
-
-➡️ View the Code & Technical README
+[➡️ View the Code & Technical Documentation](https://github.com/Nikkypwetti/your-golden-ami-repo)
 
 ---
 
@@ -121,5 +147,5 @@ I document everything I learn daily—mistakes, fixes, and labs—in my open-sou
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/ganiyu-basirat](https://linkedin.com)
+* **LinkedIn:** [linkedin.com/in/ganiyu-basirat](https://linkedin.com/in/your-actual-username)
 * **Email:** [olanike.basirat620@gmail.com](olanike.basirat620@gmail.com)
