@@ -56,6 +56,24 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 
 ---
 
+### 🚀 Automated Golden AMI Pipeline (CI/CD)
+
+I built a self-cleaning image factory that automates the transition from code to a hardened AWS artifact.
+
+The Engineering Challenge: Eliminate manual configuration and ensure "Immutable Infrastructure" by baking all dependencies into a versioned Golden AMI.
+
+    Image Baking: Automated Packer to provision temporary build environments and capture hardened AMIs.
+
+    Configuration: Integrated Ansible with Ansible Vault to manage encrypted secrets and Nginx templates securely.
+
+    Cost Optimization: Implemented automated cleanup logic that deregisters old AMIs and deletes associated EBS Snapshots to keep AWS storage costs at zero.
+
+    Observability: Provisioned a CloudWatch Dashboard via Terraform to monitor real-time CPU and Memory (RAM) utilization.
+
+➡️ View the Code & Technical README
+
+---
+
 ## 📚 My Learning Journey (The Process)
 I document everything I learn daily—mistakes, fixes, and labs—in my open-source notebook. This demonstrates my consistency and ability to document technical concepts.
 
