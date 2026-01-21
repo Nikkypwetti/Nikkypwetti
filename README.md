@@ -5,12 +5,6 @@ I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicat
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nikkypwetti&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 👨‍💻 About Me
 
 I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering. I believe in **"Infrastructure as Code"** not just as a tool, but as a philosophy for building reliable, scalable, and reproducible systems. When I'm not automating AWS infrastructure, I enjoy documenting my learning journey to help others in the DevOps community.
@@ -20,18 +14,26 @@ I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering
 ---
 
 ## 🔧 Skills & Technologies
-- **Cloud:** AWS (EC2, S3, IAM, VPC, Auto Scaling, ALB)
-- **DevOps & IaC:** Terraform, Linux, Networking
+- **Cloud:** AWS (EC2, S3, IAM, VPC, Auto Scaling, ALB, CloudWatch, SNS) - *Advanced*
+- **DevOps & IaC:** Terraform, Packer, Ansible, Linux, Networking - *Intermediate to Advanced*
+- **CI/CD:** GitHub Actions (Self-cleaning pipelines) - *Intermediate*
 - **Programming:** JavaScript, TypeScript, PHP, SQL, Node.js
 - **Frameworks:** React, Next.js, Angular, Vue, Laravel
 - **Tools:** Git, GitHub, VS Code
-
+  
 ---
 
 ## 🏅 Certifications
 
 - **AWS Certified Cloud Practitioner** *(In Progress)*
 - **Terraform Associate** *(Planned for Q2 2026)*
+
+---
+
+## 🚀 Now
+- 📚 Studying for AWS Cloud Practitioner
+- 🔧 Building a Kubernetes cluster on AWS
+- 📝 Writing about Terraform best practices
 
 ---
 
@@ -79,11 +81,12 @@ I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering
 
 ---
 
-### 🚀 [Automated Golden AMI Pipeline (CI/CD)](https://github.com/Nikkypwetti/your-golden-ami-repo)
+### 🚀 [Automated Golden AMI Pipeline (CI/CD)](https://github.com/Nikkypwetti/devops-learning-journey/tree/main/03-infrastructure-as-code/projects/golden-ami-pipeline)
 
 ![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Builder](https://img.shields.io/badge/AWS-Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **The Challenge:** Eliminate manual configuration drift and ensure "Immutable Infrastructure" by automating the creation of hardened, versioned Amazon Machine Images.
 
@@ -93,10 +96,11 @@ I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering
 - **Cost Optimization:** Automated cleanup of old AMIs and EBS snapshots
 - **Monitoring:** Terraform-provisioned CloudWatch dashboard for real-time resource monitoring
 - **CI/CD Ready:** Pipeline triggers on code commit → build → test → deploy
+- **Outcome:** Reduced AMI creation time by 85% and eliminated configuration drift
 
 **Tech Stack:** Packer, Ansible, Terraform, AWS (EC2, CloudWatch, S3), Bash
 
-[➡️ View the Code & Technical Documentation](https://github.com/Nikkypwetti/your-golden-ami-repo)
+[➡️ View the Pipeline Code & Documentation](https://github.com/Nikkypwetti/devops-learning-journey/tree/main/03-infrastructure-as-code/projects/golden-ami-pipeline)
 
 ---
 
@@ -146,6 +150,12 @@ I document everything I learn daily—mistakes, fixes, and labs—in my open-sou
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nikkypwetti&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/ganiyu-basirat](https://linkedin.com/in/your-actual-username)
-* **Email:** [olanike.basirat620@gmail.com](olanike.basirat620@gmail.com)
+* **LinkedIn:** [linkedin.com/in/ganiyu-basirat](https://linkedin.com/in/ganiyu-basirat)
+* **Email:** [olanike.basirat620@gmail.com](mailto:olanike.basirat620@gmail.com)
