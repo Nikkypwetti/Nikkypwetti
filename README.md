@@ -15,8 +15,9 @@ I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering
 
 ## 🔧 Skills & Technologies
 - **Cloud:** AWS (EC2, S3, IAM, VPC, Auto Scaling, ALB, CloudWatch, SNS) - *Advanced*
-- **DevOps & IaC:** Terraform, Packer, Ansible, Linux, Networking - *Intermediate to Advanced*
-- **CI/CD:** GitHub Actions (Self-cleaning pipelines) - *Intermediate*
+- **DevOps & IaC:** Terraform, Packer, Ansible, Linux, Networking, Docker Swarm - *Intermediate to Advanced*
+- **CI/CD:** GitHub Actions (Self-cleaning pipelines, Matrix builds, Trivy security scans) - *Intermediate*
+- ** Middleware: Nginx (Reverse Proxy/WebSockets), Redis - Intermediate
 - **Programming:** JavaScript, TypeScript, PHP, SQL, Node.js
 - **Frameworks:** React, Next.js, Angular, Vue, Laravel
 - **Tools:** Git, GitHub, VS Code
@@ -40,44 +41,24 @@ I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering
 ## 🏆 Featured Projects (The Portfolio)
 *Evidence of my hands-on experience with AWS and Infrastructure.*
 
-### ☁️ [High-Availability Web Application](https://github.com/Nikkypwetti/aws-ha-webapp)
-**Tech:** *AWS EC2, Auto Scaling Groups, Application Load Balancer, VPC, Linux*
-> Designed and deployed a fault-tolerant, multi-AZ web architecture. Implemented chaos engineering to test resilience against Availability Zone failures.
 
-[➡️ **View Architecture & Code »**](https://github.com/nikkypwetti/aws-ha-webapp)
+### 🚀 [Real-Time Microservices Voting Infrastructure](https://github.com/Nikkypwetti/microservices/voting-app-project)
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### [AWS Multi-Tier Architecture with Terraform](https://github.com/Nikkypwetti/aws-terraform-multi-tier-app)
-*I built a production-ready, 2-tier web architecture completely defined as code.*
+**The Challenge:** Orchestrate a complex, multi-language microservices stack while maintaining data consistency across asynchronous services and enabling real-time UI updates behind a secure gateway.
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+**Solution Highlights:**
+- **Orchestration:** Deployed a 5-tier stack (Python, .NET, Node.js, Redis, Postgres) using Docker Swarm for high availability
+- **Real-Time Data Flow:** Reconfigured Nginx as a Reverse Proxy to support WebSocket (Socket.io) "Upgrade" handshakes for live dashboard updates
+- **Security-First Config:** Implemented Docker Secrets for zero-trust database authentication, eliminating insecure environment variables
+- **Event-Driven Architecture:** Leveraged Redis as a message broker to decouple high-frequency voting from database write persistence
+- **Hardened CI/CD:** Built a multi-service GitHub Actions pipeline featuring Trivy vulnerability scanning for all container images
+- **Outcome:** Achieved sub-second result propagation and established a secure, reproducible infrastructure-as-code deployment
 
-**What I built:**
-* **Infrastructure as Code:** Replaced manual console clicking with reusable Terraform modules.
-* **Networking:** Custom VPC with Public/Private subnet isolation across 2 Availability Zones.
-* **Security:** Implemented least-privilege Security Groups for EC2 and RDS.
-* **Compute:** Auto-provisioned Amazon Linux 2023 web servers with Bash user-data scripts.
+**Tech Stack:** Docker Swarm, Nginx, Redis, PostgreSQL, Node.js, .NET Core, Python, GitHub Actions, Trivy
 
-[➡️ View the Code & Architecture Diagram](https://github.com/Nikkypwetti/aws-terraform-multi-tier-app)
-
----
-
-### [AWS Infrastructure Automation (Terraform)](https://github.com/Nikkypwetti/practice)
-*I practice EC2 Instance with Terraform provisioner and Data sources.*
-
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**The Challenge:** Automate a full VPC network and web server deployment to reduce manual configuration errors.
-- **Tech Stack:** Terraform, AWS (EC2, VPC, S3), Nginx.
-- **Key Highlight:** Implemented `remote-exec` provisioners to achieve a "Zero-Touch" deployment where the server is fully configured upon creation.
-- **Outcome:** Reduced environment setup time from 20 minutes to 2 minutes.
-
-[➡️ View the Code & Architecture graph](https://github.com/nikkypwetti/practice)
+[➡️ View the Microservices Code & Documentation](https://github.com/Nikkypwetti/microservices/voting-app-project)
 
 ---
 
@@ -103,6 +84,49 @@ I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering
 [➡️ View the Pipeline Code & Documentation](https://github.com/Nikkypwetti/devops-learning-journey/tree/main/03-infrastructure-as-code/projects/golden-ami-pipeline)
 
 ---
+
+### [AWS Infrastructure Automation (Terraform)](https://github.com/Nikkypwetti/practice)
+*I practice EC2 Instance with Terraform provisioner and Data sources.*
+
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**The Challenge:** Automate a full VPC network and web server deployment to reduce manual configuration errors.
+- **Tech Stack:** Terraform, AWS (EC2, VPC, S3), Nginx.
+- **Key Highlight:** Implemented `remote-exec` provisioners to achieve a "Zero-Touch" deployment where the server is fully configured upon creation.
+- **Outcome:** Reduced environment setup time from 20 minutes to 2 minutes.
+
+[➡️ View the Code & Architecture graph](https://github.com/nikkypwetti/practice)
+
+---
+
+### [AWS Multi-Tier Architecture with Terraform](https://github.com/Nikkypwetti/aws-terraform-multi-tier-app)
+*I built a production-ready, 2-tier web architecture completely defined as code.*
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**What I built:**
+* **Infrastructure as Code:** Replaced manual console clicking with reusable Terraform modules.
+* **Networking:** Custom VPC with Public/Private subnet isolation across 2 Availability Zones.
+* **Security:** Implemented least-privilege Security Groups for EC2 and RDS.
+* **Compute:** Auto-provisioned Amazon Linux 2023 web servers with Bash user-data scripts.
+
+[➡️ View the Code & Architecture Diagram](https://github.com/Nikkypwetti/aws-terraform-multi-tier-app)
+
+---
+
+
+### ☁️ [High-Availability Web Application](https://github.com/Nikkypwetti/aws-ha-webapp)
+**Tech:** *AWS EC2, Auto Scaling Groups, Application Load Balancer, VPC, Linux*
+> Designed and deployed a fault-tolerant, multi-AZ web architecture. Implemented chaos engineering to test resilience against Availability Zone failures.
+
+[➡️ **View Architecture & Code »**](https://github.com/nikkypwetti/aws-ha-webapp)
+
+---
+
 
 ## 📚 My Learning Journey (The Process)
 I document everything I learn daily—mistakes, fixes, and labs—in my open-source notebook. This demonstrates my consistency and ability to document technical concepts.
