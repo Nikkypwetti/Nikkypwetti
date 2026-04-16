@@ -62,7 +62,7 @@ I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering
 
 ---
 
-### 🚀 [Enterprise 3-Tier Containerized Stack](https://github.com/Nikkypwetti/3-tier-app)
+### 🚀 [Enterprise 3-Tier Containerized Stack](https://github.com/Nikkypwetti/devops-learning-journey/tree/main/04-containerization/projects/fullstack-app)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -78,7 +78,7 @@ I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering
 
 **Tech Stack:** React.js, Node.js/Express, Nginx, PostgreSQL, Docker Compose, GitHub Actions, Tailwind CSS
 
-[➡️ View the 3-Tier Code & Documentation](https://github.com/Nikkypwetti/3-tier-app)
+[➡️ View the 3-Tier Code & Documentation](https://github.com/Nikkypwetti/devops-learning-journey/tree/main/04-containerization/projects/fullstack-app)
 
 ---
 
