@@ -62,6 +62,26 @@ I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering
 
 ---
 
+### 🚀 [Enterprise 3-Tier Containerized Stack](https://github.com/Nikkypwetti/3-tier-app)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**The Challenge:** Build a production-ready 3-Tier architecture where the API and Database are never exposed directly to the public internet, while maintaining developer experience with hot-reloading in development.
+
+**Solution Highlights:**
+- **Security-First Design:** Configured Nginx as a Reverse Proxy to shield internal API and database from direct public access, exposing only port 3000
+- **Environment Parity:** Created separate `docker-compose.dev.yml` for hot-reloading development and `docker-compose.yml` for production-grade builds
+- **Automated CI/CD:** Built GitHub Actions workflow that automatically builds, tags (using Git Short-SHA), and pushes images to Docker Hub on every push
+- **Infrastructure as Code:** Implemented Makefile automation with one-command setup (`make dev`), production deployment (`make prod`), and deep-cleaning (`make nuclear`)
+- **Database Persistence:** Configured Docker volumes to preserve data even when containers are destroyed and recreated
+- **Outcome:** Eliminated "phantom bugs" from cache issues and achieved 100% environment consistency with a nuclear rebuild option
+
+**Tech Stack:** React.js, Node.js/Express, Nginx, PostgreSQL, Docker Compose, GitHub Actions, Tailwind CSS
+
+[➡️ View the 3-Tier Code & Documentation](https://github.com/Nikkypwetti/3-tier-app)
+
+---
+
 ### 🚀 [Automated Golden AMI Pipeline (CI/CD)](https://github.com/Nikkypwetti/devops-learning-journey/tree/main/03-infrastructure-as-code/projects/golden-ami-pipeline)
 
 ![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
