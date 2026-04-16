@@ -42,7 +42,7 @@ I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering
 *Evidence of my hands-on experience with AWS and Infrastructure.*
 
 
-### 🚀 [Real-Time Microservices Voting Infrastructure](https://github.com/Nikkypwetti/microservices/voting-app-project)
+### 🚀 [Real-Time Microservices Voting Infrastructure](https://github.com/Nikkypwetti/devops-learning-journey/04-containerization/projectsmicroservices/voting-app-project)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -58,7 +58,7 @@ I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering
 
 **Tech Stack:** Docker Swarm, Nginx, Redis, PostgreSQL, Node.js, .NET Core, Python, GitHub Actions, Trivy
 
-[➡️ View the Microservices Code & Documentation](https://github.com/Nikkypwetti/microservices/voting-app-project)
+[➡️ View the Microservices Code & Documentation](https://github.com/Nikkypwetti/devops-learning-journey/04-containerization/projects/microservices/voting-app-project)
 
 ---
 
