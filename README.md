@@ -1,205 +1,83 @@
-# Hi there, I'm ABDULGANIY BASIRAH OLANIKE! 👋
-### 🚀 Aspiring DevOps Engineer | Cloud Enthusiast | Infrastructure as Code Advocate
+# Hi, I'm Ganiyu Basirat Olanike 👋
 
-I am a tech student based in **Nigeria 🇳🇬**, currently executing a dedicated **6-month roadmap** to transition into Cloud Engineering and DevOps. I am passionate about automating infrastructure and building scalable systems on AWS.
+### Operations, RevOps & Business Systems | CRM Automation | AI Workflows | Cloud & Software Engineering
 
----
+I combine professional experience across **sales account management and executive administration** with hands-on work in **CRM operations, project coordination, reporting, workflow automation, AI integrations, software development and cloud infrastructure**.
 
-## 👨‍💻 About Me
+My focus is helping teams connect the business side of work — customers, pipeline, projects, data, documentation and follow-up — with the technical systems that make those processes easier to manage and scale.
 
-I'm a passionate tech enthusiast transitioning into DevOps and Cloud Engineering. I believe in **"Infrastructure as Code"** not just as a tool, but as a philosophy for building reliable, scalable, and reproducible systems. When I'm not automating AWS infrastructure, I enjoy documenting my learning journey to help others in the DevOps community.
+## What I Work On
 
-**My approach:** Learn → Build → Document → Repeat.
+- **Revenue & Sales Operations:** lead management, pipeline processes, CRM data quality, account follow-up and reporting
+- **CRM & Business Systems:** HubSpot, Airtable, Notion, ClickUp and connected operational workflows
+- **Operations & Project Coordination:** client onboarding, task/deadline tracking, SOPs, handoffs and delivery visibility
+- **AI & Workflow Automation:** n8n, Make.com, Zapier, Groq AI, APIs, webhooks and AI-assisted workflows
+- **Data & Reporting:** Google Sheets, Microsoft Excel, dashboards, validation, PivotTables and foundational SQL
+- **Software & Cloud:** JavaScript, TypeScript, React, Next.js, Node.js, Docker, AWS, Terraform, Git/GitHub and Linux
 
----
+## Featured Business Systems Projects
 
-## 🔧 Skills & Technologies
-- **Cloud:** AWS (EC2, S3, IAM, VPC, Auto Scaling, ALB, CloudWatch, SNS) - *Advanced*
-- **DevOps & IaC:** Terraform, Packer, Ansible, Linux, Networking, Docker Swarm - *Intermediate to Advanced*
-- **CI/CD:** GitHub Actions (Self-cleaning pipelines, Matrix builds, Trivy security scans) - *Intermediate*
-- ** Middleware: Nginx (Reverse Proxy/WebSockets), Redis - Intermediate
-- **Programming:** JavaScript, TypeScript, PHP, SQL, Node.js
-- **Frameworks:** React, Next.js, Angular, Vue, Laravel
-- **Tools:** Git, GitHub, VS Code
-  
----
+### Client Onboarding Automation System
+Built an **18-step onboarding workflow** supporting **5 service packages** across Airtable, Make.com, Notion, Gmail and Slack.
 
-## 🏅 Certifications
+**Highlights:** automated project creation, package-specific task generation, AI-generated workspace content, client communication and internal team notifications.
 
-- **AWS Certified Cloud Practitioner** *(In Progress)*
-- **Terraform Associate** *(Planned for Q2 2026)*
+➡️ Portfolio: https://nikkytechies-portfolio.vercel.app/projects/client-onboarding-automation
 
----
+### AI Meeting Notes & CRM Sync
+Built a **14-step AI meeting workflow** that extracts **7 structured insights** and synchronizes meeting context across Notion, Airtable, HubSpot and Slack.
 
-## 🚀 Now
-- 📚 Studying for AWS Cloud Practitioner
-- 🔧 Building a Kubernetes cluster on AWS
-- 📝 Writing about Terraform best practices
+➡️ Portfolio: https://nikkytechies-portfolio.vercel.app/projects/ai-meeting-notes-crm-sync
 
----
+### GrowAgency CRM + AI Pipeline
+Built **2 connected n8n workflows** supporting **5 lead qualification routes** for lead intake, AI qualification, CRM record creation, routing and follow-up.
 
-## 🏆 Featured Projects (The Portfolio)
-*Evidence of my hands-on experience with AWS and Infrastructure.*
+➡️ Portfolio: https://nikkytechies-portfolio.vercel.app/projects/growagency-crm-ai-pipeline
 
+### Business Operations & Client Delivery System
+Designed a centralized operating system covering **6 operational areas** and documented **3 core SOPs** for project kickoff, client onboarding and delivery.
 
-### 🚀 [Real-Time Microservices Voting Infrastructure](https://github.com/Nikkypwetti/devops-learning-journey/tree/main/04-containerization/projects/microservices/voting-app-project)
+➡️ Portfolio: https://nikkytechies-portfolio.vercel.app/projects/business-operations-client-project-system
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+## Selected Technical Projects
 
-**The Challenge:** Orchestrate a complex, multi-language microservices stack while maintaining data consistency across asynchronous services and enabling real-time UI updates behind a secure gateway.
+### Real-Time Microservices Voting Infrastructure
+Docker Swarm, Nginx, Redis, PostgreSQL, Node.js, Python, .NET, GitHub Actions and Trivy.
 
-**Solution Highlights:**
-- **Orchestration:** Deployed a 5-tier stack (Python, .NET, Node.js, Redis, Postgres) using Docker Swarm for high availability
-- **Real-Time Data Flow:** Reconfigured Nginx as a Reverse Proxy to support WebSocket (Socket.io) "Upgrade" handshakes for live dashboard updates
-- **Security-First Config:** Implemented Docker Secrets for zero-trust database authentication, eliminating insecure environment variables
-- **Event-Driven Architecture:** Leveraged Redis as a message broker to decouple high-frequency voting from database write persistence
-- **Hardened CI/CD:** Built a multi-service GitHub Actions pipeline featuring Trivy vulnerability scanning for all container images
-- **Outcome:** Achieved sub-second result propagation and established a secure, reproducible infrastructure-as-code deployment
+➡️ https://github.com/Nikkypwetti/devops-learning-journey/tree/main/04-containerization/projects/microservices/voting-app-project
 
-**Tech Stack:** Docker Swarm, Nginx, Redis, PostgreSQL, Node.js, .NET Core, Python, GitHub Actions, Trivy
+### Enterprise 3-Tier Containerized Stack
+React, Node.js/Express, Nginx, PostgreSQL, Docker Compose and GitHub Actions with separate development and production workflows.
 
-[➡️ View the Microservices Code & Documentation](https://github.com/Nikkypwetti/devops-learning-journey/tree/main/04-containerization/projects/microservices/voting-app-project)
+➡️ https://github.com/Nikkypwetti/devops-learning-journey/tree/main/04-containerization/projects/fullstack-app
 
----
+### AWS Multi-Tier Architecture with Terraform
+Reusable Terraform infrastructure with VPC networking, public/private subnet isolation, EC2, RDS and security groups.
 
-### 🚀 [Enterprise 3-Tier Containerized Stack](https://github.com/Nikkypwetti/devops-learning-journey/tree/main/04-containerization/projects/fullstack-app)
+➡️ https://github.com/Nikkypwetti/aws-terraform-multi-tier-app
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### High-Availability AWS Web Application
+Multi-AZ architecture using EC2, Auto Scaling Groups, Application Load Balancer, VPC and Linux.
 
-**The Challenge:** Build a production-ready 3-Tier architecture where the API and Database are never exposed directly to the public internet, while maintaining developer experience with hot-reloading in development.
+➡️ https://github.com/Nikkypwetti/aws-ha-webapp
 
-**Solution Highlights:**
-- **Security-First Design:** Configured Nginx as a Reverse Proxy to shield internal API and database from direct public access, exposing only port 3000
-- **Environment Parity:** Created separate `docker-compose.dev.yml` for hot-reloading development and `docker-compose.yml` for production-grade builds
-- **Automated CI/CD:** Built GitHub Actions workflow that automatically builds, tags (using Git Short-SHA), and pushes images to Docker Hub on every push
-- **Infrastructure as Code:** Implemented Makefile automation with one-command setup (`make dev`), production deployment (`make prod`), and deep-cleaning (`make nuclear`)
-- **Database Persistence:** Configured Docker volumes to preserve data even when containers are destroyed and recreated
-- **Outcome:** Eliminated "phantom bugs" from cache issues and achieved 100% environment consistency with a nuclear rebuild option
+## Professional Background
 
-**Tech Stack:** React.js, Node.js/Express, Nginx, PostgreSQL, Docker Compose, GitHub Actions, Tailwind CSS
+**Sales Account Manager — A2Z COMMUNICATION**  
+Aug 2022 - Dec 2025
 
-[➡️ View the 3-Tier Code & Documentation](https://github.com/Nikkypwetti/devops-learning-journey/tree/main/04-containerization/projects/fullstack-app)
+**Executive Secretary — Rehanot Steels Limited**  
+Feb 2018 - Dec 2021
 
----
+## Certifications & Learning
 
-### 🚀 [Automated Golden AMI Pipeline (CI/CD)](https://github.com/Nikkypwetti/devops-learning-journey/tree/main/03-infrastructure-as-code/projects/golden-ami-pipeline)
+- Airtable Builder Certification — 2026
+- Notion Essentials Badge — 2026
+- Full Stack Developer Training — Soft Quest, 2023-2024
+- Ongoing applied learning in RevOps, CRM, analytics, AI workflows and business systems
 
-![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Builder](https://img.shields.io/badge/AWS-Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## Connect
 
-**The Challenge:** Eliminate manual configuration drift and ensure "Immutable Infrastructure" by automating the creation of hardened, versioned Amazon Machine Images.
-
-**Solution Highlights:**
-- **Image Baking:** Used Packer with Ansible provisioner to create secure, pre-configured AMIs
-- **Secret Management:** Integrated Ansible Vault for encrypted credentials and configurations
-- **Cost Optimization:** Automated cleanup of old AMIs and EBS snapshots
-- **Monitoring:** Terraform-provisioned CloudWatch dashboard for real-time resource monitoring
-- **CI/CD Ready:** Pipeline triggers on code commit → build → test → deploy
-- **Outcome:** Reduced AMI creation time by 85% and eliminated configuration drift
-
-**Tech Stack:** Packer, Ansible, Terraform, AWS (EC2, CloudWatch, S3), Bash
-
-[➡️ View the Pipeline Code & Documentation](https://github.com/Nikkypwetti/devops-learning-journey/tree/main/03-infrastructure-as-code/projects/golden-ami-pipeline)
-
----
-
-### [AWS Infrastructure Automation (Terraform)](https://github.com/Nikkypwetti/practice)
-*I practice EC2 Instance with Terraform provisioner and Data sources.*
-
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**The Challenge:** Automate a full VPC network and web server deployment to reduce manual configuration errors.
-- **Tech Stack:** Terraform, AWS (EC2, VPC, S3), Nginx.
-- **Key Highlight:** Implemented `remote-exec` provisioners to achieve a "Zero-Touch" deployment where the server is fully configured upon creation.
-- **Outcome:** Reduced environment setup time from 20 minutes to 2 minutes.
-
-[➡️ View the Code & Architecture graph](https://github.com/nikkypwetti/practice)
-
----
-
-### [AWS Multi-Tier Architecture with Terraform](https://github.com/Nikkypwetti/aws-terraform-multi-tier-app)
-*I built a production-ready, 2-tier web architecture completely defined as code.*
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**What I built:**
-* **Infrastructure as Code:** Replaced manual console clicking with reusable Terraform modules.
-* **Networking:** Custom VPC with Public/Private subnet isolation across 2 Availability Zones.
-* **Security:** Implemented least-privilege Security Groups for EC2 and RDS.
-* **Compute:** Auto-provisioned Amazon Linux 2023 web servers with Bash user-data scripts.
-
-[➡️ View the Code & Architecture Diagram](https://github.com/Nikkypwetti/aws-terraform-multi-tier-app)
-
----
-
-
-### ☁️ [High-Availability Web Application](https://github.com/Nikkypwetti/aws-ha-webapp)
-**Tech:** *AWS EC2, Auto Scaling Groups, Application Load Balancer, VPC, Linux*
-> Designed and deployed a fault-tolerant, multi-AZ web architecture. Implemented chaos engineering to test resilience against Availability Zone failures.
-
-[➡️ **View Architecture & Code »**](https://github.com/nikkypwetti/aws-ha-webapp)
-
----
-
-
-## 📚 My Learning Journey (The Process)
-I document everything I learn daily—mistakes, fixes, and labs—in my open-source notebook. This demonstrates my consistency and ability to document technical concepts.
-
-* 📖 **[Read my Daily DevOps Notes & Labs](https://github.com/Nikkypwetti/devops-learning-journey)**
-
----
-
-## 🌱 Currently Learning
-- CI/CD pipelines
-- Advanced Terraform modules
-- Cloud security & monitoring
-
----
-
-## 🛠️ Tools & Technologies
-**Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Scripting & Version Control**
-![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Currently Learning**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
----
-
-## 📈 Activity Overview
-- 🔭 **Currently Working On:** DevOps & Cloud projects
-- 🌱 **Learning:** CI/CD, Terraform, Cloud Security
-- 📊 **Recent Activity:** Building automated AWS infrastructure
-- 📝 **Documenting:** [DevOps Learning Journey](https://github.com/Nikkypwetti/devops-learning-journey)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikkypwetti&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikkypwetti&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Languages" width="45%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nikkypwetti&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/ganiyu-basirat](https://linkedin.com/in/ganiyu-basirat)
-* **Email:** [olanike.basirat620@gmail.com](mailto:olanike.basirat620@gmail.com)
+- **Portfolio:** https://nikkytechies-portfolio.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/ganiyu-basirat-308ab9403
+- **Email:** olanike.basirat30@gmail.com
