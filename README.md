@@ -18,6 +18,16 @@ My strongest work sits where **customers, pipeline, projects, data and systems**
 
 ## Featured Business Systems Case Studies
 
+### Revenue Intelligence Production Simulation — Lumora Cloud
+**10 source entities • 600 simulated deals • 3 Power BI dashboard pages**
+
+Built a production-style Revenue Operations intelligence simulation for a fictional B2B SaaS company, connecting CRM, marketing, billing and planning data through reusable n8n synchronization, governed PostgreSQL reporting, controlled AI-assisted manager requests, Slack/Form/API delivery and Power BI dashboards.
+
+The system uses least-privilege database roles, approved query controls, composite checkpoints, idempotent upserts, failure recovery and audit tracing. Business figures shown are verified simulation outputs rather than client results.
+
+➡️ **Case study:** https://nikkytechies-portfolio.vercel.app/projects/revenue-intelligence-production-simulation  
+➡️ **GitHub:** https://github.com/Nikkypwetti/lumora-revenue-intelligence-simulation
+
 ### Client Onboarding Automation System
 **18-step workflow • 5 service packages • 4 core systems**
 
