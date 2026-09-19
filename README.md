@@ -1,6 +1,6 @@
 # Hi, I'm Ganiyu Basirat Olanike 👋
 
-### Operations, RevOps & Business Systems | CRM | Sales Operations | Project Coordination | AI Workflow Automation
+### Operations, RevOps & Business Systems | Salesforce & HubSpot CRM | Sales Operations | Project Coordination | AI Workflow Automation
 
 I combine **7+ years of professional experience** across sales account management and executive administration with hands-on work in **CRM operations, Revenue Operations, project coordination, reporting, data quality and workflow automation**.
 
@@ -9,7 +9,7 @@ My strongest work sits where **customers, pipeline, projects, data and systems**
 ## What I Bring
 
 - **Revenue & Sales Operations:** pipeline processes, lead management, account follow-up and sales workflow support
-- **CRM & Business Systems:** HubSpot, Airtable, CRM administration, lifecycle stages, data quality and reporting
+- **CRM & Business Systems:** Salesforce Sales Cloud, HubSpot, Airtable, CRM administration, lead routing, lifecycle stages, duplicate management, data quality, forecasting and reporting
 - **Project & Client Operations:** onboarding, tasks, deadlines, priorities, handoffs and delivery visibility
 - **Executive Operations:** schedules, correspondence, meetings, documentation and action tracking
 - **Data & Reporting:** Google Sheets, Microsoft Excel, PivotTables, validation, dashboards and foundational SQL
@@ -17,6 +17,16 @@ My strongest work sits where **customers, pipeline, projects, data and systems**
 - **Technical Depth:** Git/GitHub, Linux, Docker, AWS, Terraform, JavaScript, TypeScript, React, Next.js and Node.js
 
 ## Featured Business Systems Case Studies
+
+### AsterNova Salesforce Revenue Operations & CRM Governance System
+**41 UAT scenarios • 11 Salesforce reports • 37 live tests + 4 Flow Debug validations**
+
+Built a hands-on Salesforce Sales Cloud implementation for a simulated B2B SaaS company covering capacity-aware Lead routing, lifecycle automation, Web-to-Lead, Lead conversion, validation rules, duplicate management, CRM data quality, opportunity governance, private sharing, roles and permission sets, weighted forecasting, pipeline aging and rep-performance reporting.
+
+The project also connects Google Forms → Google Sheets → n8n → Salesforce for controlled inbound Lead capture while keeping Salesforce as the system of record. All pipeline and revenue figures are simulated test data.
+
+➡️ **Case study:** https://nikkytechies-portfolio.vercel.app/projects/asternova-salesforce-revops-system  
+➡️ **GitHub project documentation:** https://github.com/Nikkypwetti/nikkytechies-portfolio/tree/main/docs/asternova-salesforce-revops-system
 
 ### Revenue Intelligence Production Simulation — Lumora Cloud
 **10 source entities • 600 simulated deals • 3 Power BI dashboard pages**
@@ -84,7 +94,7 @@ Feb 2018 – Dec 2021
 
 ## Open To
 
-Remote worldwide opportunities across **Operations, RevOps, Sales Operations, CRM, Business Systems, Project Coordination, Customer Operations and AI-enabled workflow roles**.
+Remote worldwide opportunities across **Operations, RevOps, Sales Operations, Salesforce/CRM Administration, Business Systems, Project Coordination, Customer Operations and AI-enabled workflow roles**.
 
 ## Connect
 
