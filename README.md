@@ -18,6 +18,18 @@ My strongest work sits where **customers, pipeline, projects, data and systems**
 
 ## Featured Business Systems Case Studies
 
+### AI Business OS — Production-Hardened RevOps & Business Systems Platform
+**40 production workflows • 8 specialist AI agents • 8 recovery handlers • 20/20 local production readiness**
+
+Designed and built a governed AI-powered operating layer for Revenue Operations and Business Systems, coordinating CRM, client operations, project delivery, communications, customer success, finance and RevOps analytics.
+
+The system separates AI reasoning from business-system execution using deterministic permissions, human approval gates, idempotency, replay-safe provider actions, centralized error handling and bounded recovery. Groq is the primary reasoning provider with Google Gemini as a cross-provider fallback across all eight agents.
+
+Validated controlled staging writes with **HubSpot, Salesforce, Gmail and Google Calendar** and completed a deliberate local production cutover with **PRODUCTION_READY=true** and **20/20 checks**. Public VPS/domain/TLS deployment is intentionally not claimed yet.
+
+➡️ **Live case study:** https://nikkytechies-portfolio.vercel.app/projects/ai-business-os-multi-agent-operations  
+➡️ **Technical README + architecture evidence:** https://github.com/Nikkypwetti/nikkytechies-portfolio/tree/main/docs/ai-business-os
+
 ### AsterNova Salesforce Revenue Operations & CRM Governance System
 **41 UAT scenarios • 11 Salesforce reports • 37 live tests + 4 Flow Debug validations**
 
