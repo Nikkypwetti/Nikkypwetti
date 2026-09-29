@@ -19,16 +19,24 @@ My strongest work sits where **customers, pipeline, projects, data and systems**
 ## Featured Business Systems Case Studies
 
 ### AI Business OS — Production-Hardened RevOps & Business Systems Platform
-**40 production workflows • 8 specialist AI agents • 8 recovery handlers • 20/20 local production readiness**
+**54 governed workflows / 646 documented nodes • 8 specialist AI agents • 21/21 security • 11/11 RBAC • 22/22 readiness**
 
 Designed and built a governed AI-powered operating layer for Revenue Operations and Business Systems, coordinating CRM, client operations, project delivery, communications, customer success, finance and RevOps analytics.
 
 The system separates AI reasoning from business-system execution using deterministic permissions, human approval gates, idempotency, replay-safe provider actions, centralized error handling and bounded recovery. Groq is the primary reasoning provider with Google Gemini as a cross-provider fallback across all eight agents.
 
-Validated controlled staging writes with **HubSpot, Salesforce, Gmail and Google Calendar** and completed a deliberate local production cutover with **PRODUCTION_READY=true** and **20/20 checks**. Public VPS/domain/TLS deployment is intentionally not claimed yet.
+Validated controlled provider paths with **HubSpot, Salesforce, Gmail and Google Calendar**. The last fully verified core release passed **21/21 agent-access security**, **11/11 RBAC & tenant isolation**, and **22/22 production-readiness checks** with `PRODUCTION_READY=true`. Public VPS/domain/TLS deployment is intentionally not claimed yet, and the newer self-use Sales Ops monitoring/UI extension remains in progress until its regression gate passes.
 
 ➡️ **Live case study:** https://nikkytechies-portfolio.vercel.app/projects/ai-business-os-multi-agent-operations  
 ➡️ **Technical README + architecture evidence:** https://github.com/Nikkypwetti/nikkytechies-portfolio/tree/main/docs/ai-business-os
+
+### HubSpot Revenue Operations Implementation — Business OS
+**Controlled contact + deal E2E • verified owner mapping • human deal approval • idempotent replay**
+
+Implemented HubSpot as a governed downstream CRM projection of the Business OS instead of duplicating qualification, routing and approval policy inside provider-specific automation. The implementation validates contact/deal operations, owner resolution, CRM readback and replay-safe execution.
+
+➡️ **Case study:** https://nikkytechies-portfolio.vercel.app/projects/hubspot-revenue-operations-business-os  
+➡️ **Implementation documentation:** https://github.com/Nikkypwetti/nikkytechies-portfolio/blob/main/docs/hubspot-business-os-implementation.md
 
 ### AsterNova Salesforce Revenue Operations & CRM Governance System
 **41 UAT scenarios • 11 Salesforce reports • 37 live tests + 4 Flow Debug validations**
