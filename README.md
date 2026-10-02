@@ -29,7 +29,7 @@ Validated controlled provider paths with **HubSpot, Salesforce, Gmail and Google
 ➡️ **Live case study:** https://nikkytechies-portfolio.vercel.app/projects/ai-business-os-multi-agent-operations  
 ➡️ **Architecture evidence:** https://github.com/Nikkypwetti/nikkytechies-portfolio/tree/main/docs/ai-business-os
 
-### AI Revenue Intelligence & Revenue Systems Agent V2
+### AI Revenue Intelligence & Revenue Systems Agent V2 — Completed
 **37 governed KPI contracts • full chained local regression passed • governed Gmail delivery verified**
 
 Built a governed Revenue Intelligence and Revenue Systems platform that separates AI interpretation from deterministic KPI authorization and reporting execution, with reusable HubSpot/Salesforce/Airtable adapters, server-bound identity, least-privilege controls, bounded retries, dead-letter handling and a read-only Control Center.
@@ -62,6 +62,13 @@ Built a governed lead-to-client Revenue Operations system covering AI-assisted q
 
 ➡️ **Case study:** https://nikkytechies-portfolio.vercel.app/projects/growagency-crm-ai-pipeline  
 ➡️ **Documentation:** https://github.com/Nikkypwetti/nikkytechies-portfolio/tree/main/docs/growagency-lead-to-client-revenue-operations-system
+
+### HubSpot ClientFlow CRM
+**3 HubSpot workflows • 8 reports • lead-to-deal follow-up controls**
+
+Configured a practical HubSpot Sales Hub CRM covering contact/company/deal structure, proposal and overdue follow-up workflows, Make.com lead processing, Slack/Gmail handoffs and sales/revenue reporting.
+
+➡️ **Case study:** https://nikkytechies-portfolio.vercel.app/projects/hubspot-clientflow-crm
 
 ### Revenue Intelligence Production Simulation — Lumora Cloud
 **10 source entities • 600 simulated deals • 4 Power BI pages**
